@@ -1,0 +1,32 @@
+body{
+    background-color:blanchedalmond;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-style: oblique;
+    text-decoration: underline;
+    margin-left: 30px;
+}
+.text a{
+    color:darkred;
+}
+a{
+    text-decoration: none;
+}
+h1 a{
+    color: darkred;
+}
+.title a{
+    color:teal;
+}
+.title h3{
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+.text h3{
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: initial;
+}

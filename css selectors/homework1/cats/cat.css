@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(211, 138, 191);
+}
+
+p{
+    font-style: italic;
+    text-decoration: solid;
+}
+.kitty li{
+    display: inline;
+    margin-right: 30px;
+}
+
+
+header{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img:hover{
+    border: 5px dashed blue;
+}

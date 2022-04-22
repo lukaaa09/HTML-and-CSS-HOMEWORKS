@@ -1,0 +1,28 @@
+body{
+    background-color: cyan;
+}
+.cars li{
+    display: inline;
+    padding-left: 50px;
+    margin: 30px;   
+}
+.cats li{
+    display: inline;
+    margin: 30px;
+}
+.dogs li{
+    display: inline;
+    margin: 30px;
+}
+header{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img:hover{
+    border: 5px solid wheat;  
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    color: red;
+}

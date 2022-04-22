@@ -1,0 +1,35 @@
+body{
+    background-color:aquamarine;
+}
+.firstarticle a{
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 400;
+    font-style: italic;
+    color: rgb(8, 8, 8);
+    background-color: rgb(242, 8, 8);
+}
+.secondarticle a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;
+    font-size: 400;
+    font-style: italic;
+    color: rgb(9, 9, 9);
+    background-color: rgb(242, 8, 8);
+}
+.thirdarticle a{
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 400;
+    font-style: italic;
+    color: rgb(2, 2, 2);
+    background-color: rgb(242, 8, 8);
+}
+.links{
+    text-decoration: none;
+    font-weight: 900;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color: blue;
+    background-color: chartreuse;
+}
