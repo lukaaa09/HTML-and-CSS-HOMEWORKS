@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    width: 300px;
+    height: 120px;
+    border: 2px;
+    border: 2px solid gray;
+    position: absolute;
+    top: 20%;
+    right: 30%;
+
+}
+.header{
+    position: relative;
+}
+.title{
+    position: absolute;
+
+}
+.skip{
+    position: absolute;
+    font-size: 15px;
+    color: rgb(147, 128, 128);
+}
+.left{
+    left: 18px;
+}
+.top{
+   top: 9px;
+}
+.right{
+    right: 7px;
+}
+.main{
+    position: absolute;
+    color: darkgray;
+}
+.bottom{
+    bottom: 18px;
+}
+.right1{
+    right: 13px;
+}
