@@ -293,6 +293,7 @@
     width: 24px;
     height: 37px;
     background-color: rgb(241, 217, 180);
+    border-top: 1px solid;
 }
 .cell5{
     width: 55px;
