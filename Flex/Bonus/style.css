@@ -166,30 +166,6 @@
     border-bottom: 1px solid;
     border-right: 3px solid;
 }
-.cube13{
-    border: 1px solid;
-    width: 120px;
-    height: 40px;
-    background-color: black;
-}
-.cube133{
-    width: 75px;
-    height: 30px;
-    background-color: rgb(241, 217, 180);
-    border: 3px solid;
-}
-.cube14{
-    border: 1px solid;
-    width: 23px;
-    height: 40px;
-}
-.cube144
-{
-    height: 30px;
-    width: 23px;
-    background-color: rgb(241, 217, 180);
-    border: 1px solid;
-}
 .cube101{
     width: 135px;
     height: 45px;
@@ -197,12 +173,6 @@
     border: 1px solid;
     border-right: 3px solid;
 
-}
-.cube333{
-    height: 70px;
-    width: 40px;
-    background-color: brown;
-    border: 1px solid;
 }
 .cube301{
     width: 135px;
