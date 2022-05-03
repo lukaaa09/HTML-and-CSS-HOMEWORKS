@@ -124,6 +124,7 @@
     background-color: rgb(241, 217, 180);
     border-right: 3px solid;
     border-bottom: 3px solid;
+    border-top: 1px solid;
 }
 .cube222{
     border: 1px solid;
